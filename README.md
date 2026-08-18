@@ -1,2 +1,5 @@
-# personal-ai-safety
-Personal AI safety terminology and governance guardrails (Kongmin) - reserved
+# Personal AI Safety
+
+Terminology, guardrails and governance practices for personal AI safety.
+
+By Kongmin.
